@@ -1,0 +1,1 @@
+// File deleted. Migrated to Next.js App Router (see app/page.tsx)
